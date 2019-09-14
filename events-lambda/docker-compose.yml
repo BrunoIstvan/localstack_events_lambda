@@ -3,9 +3,7 @@ version: '3.2'
 services:
 
   localstack_events_lambda:
-
     image: localstack/localstack:latest
-
     ports:
       - '4574:4574'
       - '4587:4587'

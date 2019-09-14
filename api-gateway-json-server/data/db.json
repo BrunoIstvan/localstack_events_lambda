@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "docker",
+      "author": "bruno istvan"
+    },
+    {
+      "id": 3,
+      "title": "python",
+      "author": "bruno istvan"
+    },
+    {
+      "id": 4,
+      "title": "localstack",
+      "author": "bruno istvan"
+    },
+    {
+      "title": "docker-compose",
+      "author": "bruno istvan",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
